@@ -1,3 +1,4 @@
+//All of the files are written by Sudip Basu and Everything is Copyright content
 <?php
 $con=mysqli_connect("localhost","root","","video");
 ?>
